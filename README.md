@@ -4,7 +4,7 @@ Welcome to my CV repository! Here, you'll find all the details about my professi
 
 ## Contents
 
-- `CV.pdf`: This is the main file that contains my CV. It's updated regularly with new experiences and skills.
+- `CV_Stoimchev_Zhivko.pdf`: This is the main file that contains my CV. It's updated regularly with new experiences and skills.
 
 - `Cover_Letter.pdf`: This file contains a general cover letter. For job-specific letters, please contact me directly.
 
@@ -14,7 +14,7 @@ Welcome to my CV repository! Here, you'll find all the details about my professi
 
 ## Contact Me
 
-If you have any questions or would like to get in touch, please open an issue in this repository. Alternatively, you can reach me at `your-email@example.com`.
+If you have any questions or would like to get in touch, please open an issue in this repository. Alternatively, you can reach me at `stoimchev@outlook.com`.
 
 ## License
 
